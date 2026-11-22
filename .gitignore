@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+Icon?
+
+# Vim
+*.swp
+*.swo
+*.swn
+*~
+.*.un~
+Session.vim
+.netrwhist
+tags
+
+# Emacs
+\#*\#
+.\#*
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Windows / Linux
+Thumbs.db
+Desktop.ini
+.directory
+
+# Logs, temp files, backups
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Local tooling
+.claude/settings.local.json
+node_modules/
+.env
